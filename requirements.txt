@@ -11,4 +11,6 @@ tqdm
 glog
 tensorboardx
 fire
+tk
+
 # this file is not ready yet
