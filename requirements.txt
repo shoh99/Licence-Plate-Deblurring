@@ -1,4 +1,3 @@
-apt-get python-tk
 torch>=1.0.1
 torchvision
 torchsummary
