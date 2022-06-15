@@ -3,7 +3,7 @@ torchvision
 torchsummary
 pretrainedmodels
 numpy
-opencv-python-headless
+opencv-python-headless==4.1.2.30
 joblib
 albumentations>=1.0.0
 scikit-image==0.18.1
@@ -12,5 +12,7 @@ glog
 tensorboardx
 fire
 tk
+streamlit
+PyYAML==6.0
 
 # this file is not ready yet
